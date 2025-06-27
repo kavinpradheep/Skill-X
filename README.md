@@ -1,1 +1,42 @@
-# Skill-X
+# 🎨 SkillX – UI/UX Design for Skill Exchange Platform
+
+This repository contains the UI/UX design for **SkillX**, a skill exchange platform showcased at the **Product Expo**.
+
+## 🔗 Figma Design Link
+[🔗 View the SkillX Design on Figma](https://www.figma.com/design/bfYQSe6ZI3Y08YRRGx271D/product_expo?node-id=0-1&t=RGYAK06qtLhwzm1Y-1)
+
+## 🧠 Project Summary
+
+**SkillX** is a platform where individuals can **connect, share, and trade skills** seamlessly. The platform encourages peer-to-peer learning through secure profiles and smart skill-matching features.
+
+> ✅ Designed an intuitive and clean interface  
+> 🔐 Emphasis on secure profiles  
+> 🤝 Built for collaboration and skill discovery  
+> 📱 Responsive and mobile-friendly layout (if applicable)
+
+## 📸 Screenshots
+
+> *(Add exported images from Figma to `screenshots/` folder and update below)*
+
+| Dashboard | Profile Page | Skill Matching |
+|-----------|--------------|----------------|
+| ![Dashboard](screenshots/dashboard.png) | ![Profile](screenshots/profile.png) | ![Matching](screenshots/matching.png) |
+
+## 📁 Files Included
+- `screenshots/` – PNG/JPG images of Figma frames  
+- `figma-export.pdf` – Exported PDF of full design (optional)
+
+## 🛠️ Tools Used
+- **Figma** for design, components, prototyping
+- Auto Layout, Components, Variants
+
+## 📚 Use Case
+This design can be used for:
+- Frontend development references
+- UI/UX case study
+- Design system inspiration
+- Startup pitch demos
+
+---
+
+Made with ❤️ using [Figma](https://www.figma.com)
