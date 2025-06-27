@@ -24,7 +24,7 @@ Here are some key screens from the **SkillX** UI design:
 
 ## 📁 Files Included
 - `screenshots/` – PNG/JPG images of Figma frames  
-- `figma-export.pdf` – Exported PDF of full design (optional)
+- `product_expo.pdf` – Exported PDF of full design
 
 ## 🛠️ Tools Used
 - **Figma** for design, components, prototyping
