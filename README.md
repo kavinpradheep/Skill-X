@@ -18,9 +18,17 @@ This repository contains the UI/UX design for **SkillX**, a skill exchange platf
 
 Here are some key screens from the **SkillX** UI design:
 
-| Landing Page | Home Page | Info Page |
-|--------------|-----------|-----------|
-| ![Landing](screenshots/landing.png) | ![Home](screenshots/home.png) | ![Info](screenshots/info.png) |
+| Landing Page |
+|--------------|
+| ![Landing](screenshots/landing.png) | 
+
+| Home Page |
+|--------------|
+![Home](screenshots/home.png) | 
+
+| Info Page |
+|--------------|
+![Info](screenshots/info.png) |
 
 ## 📁 Files Included
 - `screenshots/` – PNG/JPG images of Figma frames  
